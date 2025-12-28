@@ -13,8 +13,8 @@ NORMAS GENERALES DEL EVENTO
 - ⚠️ Seguridad: arma siempre en seguro fuera de tiro
 
 ======================================================================
-========================= 📅 DÍA 1 – STAGES 1 y 2 =====================
-==================== POTENCIA + CONTROL EN TERRENO ====================
+========================= 📅 DÍA 1 – STAGES 1 y 2 ===================
+==================== POTENCIA + CONTROL EN TERRENO ===================
 ======================================================================
 
 --------------------------------
@@ -24,19 +24,19 @@ STAGE 1 – SPRINT EN COLINA & CARGA
 - Sendero de tierra con pendiente (subida del 5–10%)
 - Terreno irregular, nada de pista plana
 
-1. 🏃‍♂️ Carrera en colina: 400 m
-   - Últimos 100 m en subida
-   - Tiempo máx: 3:00
+1. 🏃‍♂️ Carrera en colina: 400 metros
+   - Últimos 100 metros en subida
+   - Tiempo máx: 3:00 minutos
 
 2. 🤸 Burpees sobre tierra: 20
    - Pecho toca el suelo
    - Salto completo
-   - Tiempo máx: 1:30
+   - Tiempo máx: 1:30 minutos
 
 3. 🧱 Farmer Carry cuesta arriba:
    - Peso: 35 kg por mano
    - Distancia: 40 m (ligera pendiente)
-   - Tiempo máx: 2:00
+   - Tiempo máx: 2:00 minutos
 
 🔫 TIRO (AR-15 AIRSOFT)
 - Disparos: 10
@@ -52,26 +52,26 @@ STAGE 2 – OBSTÁCULOS + FUERZA
 - Vallas, troncos, muros bajos
 
 1. 🧗 Paso de obstáculos:
-   - Saltar 3 vallas o troncos
-   - Gateo bajo cuerda o banco (10 m)
-   - Tiempo máx total: 2:00
+   - Saltar 3 vallas o troncos altos
+   - Gateo bajo cuerda o banco (10 metros)
+   - Tiempo máx total: 2:00 minutos
 
 2. 💪 Flexiones en terreno irregular: 30
    - Manos sobre grava/tierra
-   - Tiempo máx: 2:00
+   - Tiempo máx: 2:00 minutos
 
 3. 🧗 Dominadas en barra exterior: 8–10
    - Barra de parque, estructura metálica
-   - Tiempo máx: 1:30
+   - Tiempo máx: 1:30 minutos
 
 🔫 TIRO (AR-15 AIRSOFT)
 - Disparos: 10
-- Distancia: 10–15 m
+- Distancia: 10–15 metros
 - Posición: rodilla en el suelo
-- Tiempo máx: 60 s
+- Tiempo máx: 60 segundos
 
 ======================================================================
-========================= 📅 DÍA 2 – STAGES 3 y 4 =====================
+========================= 📅 DÍA 2 – STAGES 3 y 4 ===================
 ===================== CARGA PESADA + FATIGA REAL =====================
 ======================================================================
 
@@ -86,24 +86,24 @@ STAGE 3 – RESCATE EN TERRENO
    - Peso: 70–90 kg
    - Distancia: 20 m
    - Terreno irregular
-   - Tiempo máx: 2:00
+   - Tiempo máx: 2:00 minutos
 
 2. 🏋️ Sandbag Clean:
    - Peso: 40–60 kg
    - Reps: 15
    - Desde el suelo
-   - Tiempo máx: 2:30
+   - Tiempo máx: 2:30 minutos
 
 3. 🧱 Farmer Carry largo:
    - Peso: 35–40 kg por mano
-   - Distancia: 60 m
-   - Tiempo máx: 2:30
+   - Distancia: 60 metros
+   - Tiempo máx: 2:30 minutos
 
 🔫 TIRO (AR-15 AIRSOFT)
 - Disparos: 12
 - Distancia: 25–40 m
 - Posición: prone (tumbado)
-- Tiempo máx: 90 s
+- Tiempo máx: 90 segundos
 
 --------------------------------
 STAGE 4 – CARDIO EN CAMPO ABIERTO
@@ -112,19 +112,19 @@ STAGE 4 – CARDIO EN CAMPO ABIERTO
 - Campo abierto, sin sombra
 - Terreno natural
 
-1. 🏃‍♂️ Carrera campo a través: 600 m
+1. 🏃‍♂️ Carrera campo a través: 600 metros
    - Pequeñas subidas y bajadas
-   - Tiempo máx: 4:30
+   - Tiempo máx: 4:30 minutos
 
 2. 🤸 Burpees: 30
    - Sobre tierra
-   - Tiempo máx: 2:30
+   - Tiempo máx: 2:30 minutos
 
 🔫 TIRO (AR-15 AIRSOFT)
 - Disparos: 8
-- Distancia: 10 m
+- Distancia: 10 metros
 - Posición: de pie
-- Tiempo máx: 60 s
+- Tiempo máx: 60 segundos
 
 ======================================================================
 ========================= 📅 DÍA 3 – STAGES 5 y 6 =====================
@@ -140,7 +140,7 @@ STAGE 5 – STAGE LARGO TIPO MILITAR
 
 1. 🏃‍♂️ Carrera trail: 1 km
    - Subidas y bajadas
-   - Tiempo máx: 6:30
+   - Tiempo máx: 6:30 minutos
 
 2. 🏋️ Zancadas caminando:
    - Peso: 35 kg
@@ -150,15 +150,15 @@ STAGE 5 – STAGE LARGO TIPO MILITAR
 
 4. 🧱 Farmer Carry:
    - Peso: 35 kg por mano
-   - Distancia: 100 m
+   - Distancia: 100 metros
 
 5. 🤸 Burpees: 20
 
 🔫 TIRO FINAL (AR-15 AIRSOFT)
 - Disparos: 15
-- Distancia: 25–50 m
+- Distancia: 25–50 metros
 - Posición: a elegir
-- Tiempo máx: 120 s
+- Tiempo máx: 120 segundos
 
 --------------------------------
 STAGE 6 – MARCHA TÁCTICA FINAL
@@ -168,16 +168,16 @@ STAGE 6 – MARCHA TÁCTICA FINAL
 
 - 🎒 Marcha con mochila:
   Peso: 15–20 kg
-  Tiempo: 60–90 min
+  Tiempo: 60–90 minutos
   Ritmo constante, sin parar
 
 🔫 TIRO FINAL EVENTO (AR-15 AIRSOFT)
 - Disparos: 20
-- Distancia: 15–25 m
-- Tiempo máx: 2:30
+- Distancia: 15–25 metros
+- Tiempo máx: 2:30 minutos
 - Pulso alto, respiración controlada
 
 ======================================================================
- | FIN DEL EVENTO                                                     |
+ | FIN DEL EVENTO                                                    |
  | "No es gimnasio. No es carrera. Es control bajo caos."            |
 ======================================================================
